@@ -1,6 +1,6 @@
 # Car_Rental_System_in_cpp
 <p align="center">
-  <img src="https://code-projects.org/wp-content/uploads/2018/06/Screenshot-SimpleCarRental.png" alt="Car Rental System Logo" width="200">
+  <img src="https://code-projects.org/wp-content/uploads/2018/06/Screenshot-SimpleCarRental.png" alt="Car Rental System Logo" width="auto">
 </p>
 
 <h1 align="center">Car Rental System</h1>
